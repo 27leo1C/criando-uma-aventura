@@ -1,2 +1,0 @@
-# criando-uma-aventura
-.
